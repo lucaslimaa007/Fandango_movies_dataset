@@ -1,4 +1,4 @@
-# Fandango Movies Dataset Analysis :popcorn: :movie_camera:
+# Fandango Movies Rating Dataset Analysis :popcorn: :movie_camera:
 
 ![Movies Rating Distribution](dist.png)
 
